@@ -1,0 +1,20 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# API keys
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/ 
