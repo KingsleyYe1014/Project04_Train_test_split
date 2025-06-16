@@ -14,7 +14,7 @@ pip install -r requirements.txt
    - Go to https://api.census.gov/data/key_signup.html
    - Sign up for an API key
    - Create a file named `config.py` in the project root
-   - Add your API key as: `CENSUS_API_KEY = "your-key-here"`
+   - API key as: `CENSUS_API_KEY = "a52e53ddb8b40f8b0a7b15c459ce26c5c902313c"`
 
 ## Project Structure
 
